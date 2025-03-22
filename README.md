@@ -20,5 +20,4 @@ Use `ping` to ensure the target is live:
 
 ```bash
 ping 10.129.114.167
-
-![image](https://github.com/user-attachments/assets/abbc67f9-8c59-4be1-b1b5-5bd230147090)
+[image](https://github.com/user-attachments/assets/abbc67f9-8c59-4be1-b1b5-5bd230147090)
