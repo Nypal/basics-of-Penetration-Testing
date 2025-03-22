@@ -18,4 +18,5 @@ Use `ping` to ensure the target is live:
 
 ```bash
 ping 10.129.114.167
-[Ping Screenshot](<img width="695" alt="image" src="https://github.com/user-attachments/assets/fa7781cf-26e1-49e7-98ee-1b6b0e0210b8" />)
+
+![Ping Screenshot](https://github.com/user-attachments/assets/fa7781cf-26e1-49e7-98ee-1b6b0e0210b8)
