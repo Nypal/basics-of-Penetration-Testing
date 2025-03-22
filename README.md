@@ -17,5 +17,5 @@ We begin by identifying and connecting to a simple FTP server with anonymous acc
 Use `ping` to ensure the target is live: 
 
 ping 10.129.114.167
+### 🖼️ Ping Command Output
 ![image](https://github.com/Nypal/basics-of-Penetration-Testing/blob/2cbca40bfb063aaae389bfb6616efe511aa1d32e/ping-result.png)
-
