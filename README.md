@@ -19,4 +19,4 @@ Use `ping` to ensure the target is live:
 ```bash
 ping 10.129.114.167
 ### 🖼️ Ping Command Output
-![Ping Screenshot](https://github.com/user-attachments/assets/abbc67f9-8c59-4be1-b1b5-5bd230147090)
+![Ping Screenshot](images/ping-result.png)
