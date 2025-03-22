@@ -19,5 +19,5 @@ Use `ping` to ensure the target is live:
 ```bash
 ping 10.129.114.167
 ### 🖼️ Ping Command Output
-[Ping Screenshot](<img width="694" alt="Image" src="https://github.com/user-attachments/assets/f83d2530-7dfb-4a92-ad3c-3f082d0da015" />)
+![Ping Screenshot](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/ping-result.png?raw=truehttps://github.com/Nypal/basics-of-Penetration-Testing/blob/04fa81c86e2f4f65f1d7c0b87f339a608a2b101a/ping-result.png)
 
