@@ -1,6 +1,6 @@
 # 🐾 Fawn – FTP Anonymous Access Exploitation
 
-## 🎯 Objective
+## 🎯 Goal
 Understand how to enumerate and exploit a misconfigured FTP service allowing anonymous access using basic tools.
 
 ## 🧭 Step 1: Targeting a Misconfigured FTP
@@ -19,3 +19,11 @@ Use `ping` to ensure the target is live:
 ping 10.129.114.167
 ### 🖼️ Ping Command Output
 ![image](https://github.com/Nypal/basics-of-Penetration-Testing/blob/2cbca40bfb063aaae389bfb6616efe511aa1d32e/ping-result.png)
+
+### 🔎 Nmap Scan – Detecting Open Services
+
+Use `nmap` to identify which services are running on the target:
+
+sudo nmap 10.129.89.120
+### 🖼️ Nmap Command Output
+![Nmap Scan Result](https://github.com/Nypal/basics-of-Penetration-Testing/blob/fbfb27169ebdfdfa67907dadbd17b70bf31aacc8/nmapresult.png?raw=true)
