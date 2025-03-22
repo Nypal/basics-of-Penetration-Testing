@@ -19,4 +19,4 @@ Use `ping` to ensure the target is live:
 ```bash
 ping 10.129.114.167
 ### 🖼️ Ping Command Output
-![Ping Screenshot](https://github.com/Nypal/basics-of-Penetration-Testing/issues/1#issue-2940177157)
+[![Ping Screenshot](https://github.com/Nypal/basics-of-Penetration-Testing/issues/1#issue-2940177157)](https://github.com/Nypal/basics-of-Penetration-Testing/issues/1#issue-2940177157)
