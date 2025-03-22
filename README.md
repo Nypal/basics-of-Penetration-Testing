@@ -1,2 +1,25 @@
 # basics-of-Penetration-Testing
 essential skills in the world of cybersecurity pen-testing. You'll start by learning how to connect to various services, such as FTP, SMB, Telnet, Rsync, and RDP anonymously.
+# 🐾 Fawn – FTP Anonymous Access Exploitation
+
+## 🎯 Objective
+Understand how to enumerate and exploit a misconfigured FTP service allowing anonymous access using basic tools.
+
+## 🧭 Step 1: Targeting a Misconfigured FTP
+We begin by identifying and connecting to a simple FTP server with anonymous access enabled. This is common in poorly secured internal systems.
+
+### 🔧 Tools Required
+- VPN connection (HTB lab)
+- Terminal
+- `ping`
+- `ftp`
+- `nmap`
+
+### 🛠️ Initial Check – Is the Target Reachable?
+Use `ping` to ensure the target is live: 
+
+```bash
+ping 10.129.114.167
+### 🖼️ Ping Command Output
+
+![Ping result](https://github.com/user-attachments/assets/5310197c-5675-4e64-8560-f1c5fd2cd2c1)
