@@ -1,5 +1,3 @@
-# basics-of-Penetration-Testing
-essential skills in the world of cybersecurity pen-testing. You'll start by learning how to connect to various services, such as FTP, SMB, Telnet, Rsync, and RDP anonymously.
 # 🐾 Fawn – FTP Anonymous Access Exploitation
 
 ## 🎯 Objective
@@ -20,4 +18,5 @@ Use `ping` to ensure the target is live:
 
 ```bash
 ping 10.129.114.167
-[image](https://github.com/user-attachments/assets/abbc67f9-8c59-4be1-b1b5-5bd230147090)
+### 🖼️ Ping Command Output
+![Ping Screenshot](https://github.com/user-attachments/assets/abbc67f9-8c59-4be1-b1b5-5bd230147090)
