@@ -18,5 +18,6 @@ Use `ping` to ensure the target is live:
 
 ```bash
 ping 10.129.114.167
+
 ![image](https://github.com/Nypal/basics-of-Penetration-Testing/blob/2cbca40bfb063aaae389bfb6616efe511aa1d32e/ping-result.png)
 
