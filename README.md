@@ -33,5 +33,6 @@ sudo nmap 10.129.89.120
 We now run Nmap with the `-sV` flag to detect the **versions** of the services running on open ports. This helps determine if they are outdated or vulnerable.
 
 sudo nmap -sV 10.129.89.120
+### 🖼️ -vS Nmap Command Output
 ![Nmap Scan Result](https://github.com/Nypal/basics-of-Penetration-Testing/blob/12a13efa3e29d3cb76a6e0a28d708bc508a0d9a2/vSnmapresult.png?raw=true)
 
